@@ -1,5 +1,5 @@
 import { StackContext } from "sst/constructs";
 
-export function TestApiStack({ stack }: StackContext) {
+export function DemoStack({ stack }: StackContext) {
   // Add your first construct
 }
