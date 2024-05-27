@@ -1,4 +1,4 @@
-import notes from '../../core/src/notes';
+import notes from '@sst-rest-api/core/notes';
 
 export async function handler() {
   return {
