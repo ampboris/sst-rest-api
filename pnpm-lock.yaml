@@ -11,6 +11,9 @@ importers:
       '@tsconfig/node18':
         specifier: ^18.2.4
         version: 18.2.4
+      '@types/node':
+        specifier: ^20.12.12
+        version: 20.12.12
       aws-cdk-lib:
         specifier: 2.142.1
         version: 2.142.1(constructs@10.3.0)
